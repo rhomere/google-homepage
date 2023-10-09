@@ -9,7 +9,7 @@ const HomeContainer = styled.div`
   align-items: center;
   height: 90vh;
 `;
-
+ 
 const LogoSection = styled.div`
   display: flex;
   flex-direction: column;
