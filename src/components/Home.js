@@ -2,7 +2,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import { Container } from '../styles/center'
-
+ 
 const HomeContainer = styled.div`
   display: block;
   justify-content: center;
